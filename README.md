@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I´m Marcelino Barros, I´m a de passionate about technology!
+
+- 🌱 I’m currently learning Phyton
