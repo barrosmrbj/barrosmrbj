@@ -25,7 +25,7 @@ Eu sou Marcelino Barros, sou um programador FullStack, atualmente estou aprenden
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
   - e iniciando o aprendizado de JavaScrip e React.
 
-  - 🌱 Atualmente aprendendo Phyton <img src="https://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon-thumbnail.png" width="20px" alt="phyton-logo">
+  - 🌱 Atualmente aprendendo :snake: Phyton <img src="https://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon-thumbnail.png" width="20px" alt="phyton-logo">
 
 ### About me
   - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git-logo">
