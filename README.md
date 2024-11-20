@@ -37,3 +37,5 @@ Eu sou Marcelino Barros, sou um programador FullStack, atualmente estou aprenden
 
 
 [![BarrosMRBJ GitHub stats](https://github-readme-stats.vercel.app/api?username=barrosmrbj)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrosmrbj)](https://github.com/anuraghazra/github-readme-stats)
