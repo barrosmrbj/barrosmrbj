@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I´m Marcelino Barros, I´m a de passionate about technology!
+Hi, I´m Marcelino Barros, I´m passionate about technology!
 
 Language Portuguese<br>
 Eu sou Marcelino Barros, sou um programador FullStack, atualmente estou aprendendo e criando projetos com:
@@ -25,7 +25,7 @@ Eu sou Marcelino Barros, sou um programador FullStack, atualmente estou aprenden
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
   - e iniciando o aprendizado de JavaScrip e React.
 
-  - 🌱 I’m currently learning Phyton
+  - 🌱 Atualmente aprendendo Phyton <img src="https://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon-thumbnail.png" width="20px" alt="phyton-logo">
 
 ### About me
   - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git-logo">
